@@ -3,8 +3,10 @@ This is my first GIT...Welcome to GIt...!!!
 
 class HelloGit{
 
-    main(){
+    public static void main(String str[]){
          system.out.println("Heloo Git");
+     
+
     }
 
 }
