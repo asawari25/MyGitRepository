@@ -20,7 +20,7 @@ class HelloGit{
 
     }
        public static  void myBigMethod(){
-         sysout("has a method impl");
+         System.out.println("has a method impl");
     }
 
 }
