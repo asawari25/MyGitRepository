@@ -15,5 +15,8 @@ class HelloGit{
      
 
     }
+         void myBigMethod(){
+         sysout("has a method impl");
+    }
 
 }
